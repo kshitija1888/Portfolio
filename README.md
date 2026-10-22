@@ -1,7 +1,7 @@
 # Kshitija Patil: AI Generalist and Design Engineering Portfolio
 
 React + TypeScript + Vite. Plain CSS and inline SVG (no Tailwind, Lucide or Framer Motion), so the bundle stays small.
-
+https://portfolio-one-delta-43.vercel.app/
 ## Run locally
 ```bash
 npm install
